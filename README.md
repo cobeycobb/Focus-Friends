@@ -2,6 +2,8 @@
 
 A little study companion for Anki that helps you stay focused, one card at a time. Pick an animated buddy, set a short thinking timer, and let them cheer you on as you study.
 
+Want company without a countdown? Turn the timer off and keep your Focus Friend on screen to hang out while you study.
+
 **[Download Focus Friends 1.0.0](https://github.com/cobeycobb/Focus-Friends/releases/tag/v1.0.0)**
 
 ## See it in action
