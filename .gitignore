@@ -1,0 +1,6 @@
+dist/
+user_files/
+meta.json
+__pycache__/
+*.py[cod]
+.DS_Store

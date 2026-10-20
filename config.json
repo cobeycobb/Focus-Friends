@@ -1,0 +1,19 @@
+{
+  "character": "yuuhi_sailor",
+  "pet_name": "Yuzu",
+  "mood_neutral_at": 50,
+  "mood_happy_at": 100,
+  "mood_excited_at": 200,
+  "sprite_size": 170,
+  "mini_size": 180,
+  "show_during_review": true,
+  "show_chatter": true,
+  "mini_position": "last",
+  "show_mood_bar": true,
+  "show_dialogue": true,
+  "run_across": true,
+  "side_panel": true,
+  "talking_style": "kawaii",
+  "timer_style": "pulse",
+  "bubble_font_size": 12
+}
