@@ -35,7 +35,7 @@ If time runs out, complete five later reviews before their timers expire to refi
 
 ## Make it yours
 
-Choose from 15 characters, name your buddy, move them and the timer where you like, and customize timer styles, colors, hearts, and message bubbles.
+Choose from 15 characters, name your buddy, and move the character and timer anywhere on the screen. Focus Friends remembers their positions separately for each deck, so each deck keeps its own layout. You can also customize timer styles, colors, hearts, and message bubbles.
 
 <table>
   <tr>
