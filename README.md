@@ -1,18 +1,27 @@
 # Focus Friends
 
-A little study companion for Anki that helps you stay focused, one card at a time. Pick an animated buddy, set a short thinking timer, and let them cheer you on as you study.
+**A little friend. A timer. A reason to stay focused.**
 
-Want company without a countdown? Turn the timer off and keep your Focus Friend on screen to hang out while you study.
+Reveal the answer before the timer runs out to keep your Focus Friend happy. Run out of time? They'll get sad—review five more cards in time to refill their hearts and cheer them up.
 
-**[Download Focus Friends 1.0.0](https://github.com/cobeycobb/Focus-Friends/releases/tag/v1.0.0)**
+**You don't have to get the card right. You just have to stay focused.** (Unless you enable optional Hardcore Mode.)
 
-## See it in action
+Want company without the countdown? Turn the timer off and let your friend hang out with you.
 
-Your buddy's home-screen mood changes as your reviews add up. Here Yuzu goes from a few cards to a whole lot of study stars:
+**[Get Focus Friends on AnkiWeb](https://ankiweb.net/shared/info/1343196607)** · **[Download from GitHub](https://github.com/cobeycobb/Focus-Friends/releases/tag/v1.0.0)**
 
-![Yuzu's mood at a low and high review count](images/home-screen-mood-progression.png)
+<table>
+  <tr>
+    <td align="center"><img src="images/review-focus-friend.png" alt="A Focus Friend and timer during reviews" width="480"></td>
+    <td align="center"><img src="images/review-timer-hearts.png" alt="Another character with the focus timer and hearts" width="480"></td>
+  </tr>
+</table>
 
-During reviews, the timer gives you a moment to focus. Let it run out and your buddy gets sad; answer a card correctly and they celebrate. Forgetting a card is okay: outside optional Hardcore Mode, you only need to reveal it before time runs out.
+Your Focus Friend keeps you company while the timer helps you stay with each card. Choose your friend and move them and the timer anywhere. Your layout is remembered separately for each deck.
+
+## Encouragement along the way
+
+Your buddy occasionally offers praise when you remember a card and encouragement when you miss one.
 
 <table>
   <tr>
@@ -46,6 +55,12 @@ Choose from 15 characters, name your buddy, and move the character and timer any
     <td align="center" colspan="2"><img src="images/character-picker.png" alt="The character picker showing the available Focus Friends" width="520"><br><strong>Choose your character</strong></td>
   </tr>
 </table>
+
+## Company between study sessions
+
+Your buddy's home-screen mood changes as your reviews add up. Here Yuzu goes from a few cards to a whole lot of study stars:
+
+![Yuzu's mood at a low and high review count](images/home-screen-mood-progression.png)
 
 ## Install
 
