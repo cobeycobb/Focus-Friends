@@ -9,7 +9,7 @@ It is **entirely cosmetic**. It never modifies scheduling, card data, ratings, o
 collection database. It reads the collection for review history and writes only its own
 state file.
 
-Fifteen characters ship: **Yuzu** (default; sailor outfit), **Lumi**, **Yui**, **Miku**, **Soyo**, **Kano**, **Sakia**, **Momo**, **Kokona**, **Suzuka**, **Yume**, **Demon Girl**, **Butterfly Girl**, **Fighter Girl**, and **Megumi**. Kawaii is the default personality. The player is
+Fifteen characters ship: **Yuzu** (default;), **Lumi**, **Yui**, **Miku**, **Soyo**, **Kano**, **Sakia**, **Momo**, **Kokona**, **Suzuka**, **Yume**, **Demon Girl**, **Butterfly Girl**, **Fighter Girl**, and **Megumi**. Kawaii is the default personality. The player is
 named via `pet_name`. Choose a character from the animated gallery in Settings → General → Choose character; the existing mood preview lets you try the selection before saving.
 
 ## Source layout
